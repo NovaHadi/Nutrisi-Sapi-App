@@ -5,7 +5,7 @@ from PIL import Image
 # Konfigurasi Halaman
 st.set_page_config(page_title="Cattle Feed Optimizer", layout="wide")
 
-st.title("🐄 LALITA-Feed: Smart Cattle Nutrition Web App")
+st.title("🐄 MOO-Feed: Smart Cattle Nutrition Web App")
 st.markdown("---")
 
 # --- SIDEBAR: INPUT DATA ---
